@@ -5,7 +5,7 @@
 ## Project Specifications-
 <img width="929" alt="Screenshot 2023-09-30 180054" src="https://github.com/harshu0026/GenForge/blob/master/src/assets/Screenshot%202023-12-17%20004904.png">
  <img width="928" alt="Screenshot 2023-09-30 180130" src="https://github.com/harshu0026/GenForge/blob/master/src/assets/Screenshot%202023-12-17%20004959.png">
-<img width="935" alt="Screenshot 2023-09-30 180158" src="https://github.com/nikhilnagargit/3DPortfolio/assets/44896376/d1cb6ab5-d012-4aa8-9ed2-0d453259ecf2">
+<img width="935" alt="Screenshot 2023-09-30 180158" src="https://github.com/harshu0026/GenForge/blob/master/src/assets/Screenshot%202023-12-17%20010334.png">
 
 # React + Vite
 
