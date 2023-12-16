@@ -1,6 +1,3 @@
-# Live Demo -
-[nikhilnagar.netlify.app/](https://nikhilnagar.netlify.app/)
-
 
 ## Project Specifications-
 <img width="929" alt="Screenshot 2023-09-30 180054" src="https://github.com/harshu0026/GenForge/blob/master/src/assets/Screenshot%202023-12-17%20004904.png">
