@@ -11,7 +11,7 @@ const Computers = ({ isMobile }) => {
 
   useFrame((_, delta) => {
     // ref.current.rotation.x += delta;
-    ref.current.rotation.y -= 1 * delta;
+    // ref.current.rotation.y -= 1 * delta;
   });
 
   const computer = useGLTF("./desktop_pc/scene.gltf");
